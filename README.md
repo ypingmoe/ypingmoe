@@ -1,8 +1,4 @@
-## ypingmoe
-
-Full-stack developer and AI developer specializing in C#, Java, trading bots, blockchain + AI systems, and Polymarket bot development.
-
-### Core Skills
+http://ypingmoe.github.io/personal/
 - C#, Java, Python, TypeScript
 - Next.js, React, .NET, FastAPI
 - AI workflow automation and LLM integration
