@@ -1,16 +1,18 @@
-## Hi there 👋
+## ypingmoe
 
-<!--
-**ypingmoe/ypingmoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and AI developer specializing in C#, Java, trading bots, blockchain + AI systems, and Polymarket bot development.
 
-Here are some ideas to get you started:
+### Core Skills
+- C#, Java, Python, TypeScript
+- Next.js, React, .NET, FastAPI
+- AI workflow automation and LLM integration
+- Trading bot and Polymarket bot architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- Portfolio: [ypingmoe.github.io/personal](https://ypingmoe.github.io/personal)
+- Resume: [Download PDF](https://ypingmoe.github.io/personal/resume.pdf)
+- GitHub: [github.com/ypingmoe](https://github.com/ypingmoe)
+
+### Contact
+- Email: [ypingmoe@gmail.com](mailto:ypingmoe@gmail.com)
+- Telegram: [@ypingmoe](https://t.me/ypingmoe)
