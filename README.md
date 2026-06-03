@@ -2,7 +2,6 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ypingmoe.github.io%2Fpersonal-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ypingmoe.github.io/personal/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ypingmoe.github.io/personal/resume.pdf)
 [![YieldlyX](https://img.shields.io/badge/Org-YieldlyX-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YieldlyX)
 [![LinkedIn-style contact](https://img.shields.io/badge/Email-ypingmoe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ypingmoe@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40ypingmoe-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ypingmoe)
