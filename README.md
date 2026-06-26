@@ -1,4 +1,7 @@
-**Co-founder @ [YieldlyX](https://github.com/YieldlyX) · Software engineer · Web3 · AI**
+**Software engineer · Web3 · AI**
+
+I help teams add AI to web products: chatbots, document search (RAG),
+summarization, and automation with OpenAI, React/Next.js, and Python/FastAPI.
 
 [![LinkedIn-style contact](https://img.shields.io/badge/Email-ypingmoe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ypingmoe@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40ypingmoe-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ypingmoe)
